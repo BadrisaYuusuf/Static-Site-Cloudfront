@@ -32,6 +32,7 @@ Add the following bucket policy to allow public read access:
   ]
 }
 
+
 Replace 'your-bucket-name' with the name of your bucket and save the policy.
 
 Step 4: Create a CloudFront Distribution
